@@ -108,6 +108,7 @@ Jika Anda ingin menjalankan source code ini di komputer lokal:
 3. **Konfigurasi Firebase**
    - Pastikan file `google-services.json` sudah diletakkan di folder `android/app/`.
    - Pastikan SHA-1 Fingerprint sudah didaftarkan di Firebase Console.
+     
 4. **Jalankan Aplikasi**
    ```bash
     flutter run
