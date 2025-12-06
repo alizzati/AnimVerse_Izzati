@@ -1,4 +1,4 @@
-# 🍌 Anime Verse
+# Anime Verse
 
 ![App Logo](assets/images/app_icon.png)
 
@@ -11,19 +11,18 @@ Aplikasi ini terintegrasi dengan **Jikan API (MyAnimeList)** untuk data anime da
 ## 👨‍🎓 Identitas Mahasiswa
 **Tugas Besar Pemrograman Mobile - IKLC USU**
 
-| Item | Detail |
+| Nama | Nur Aliza Izzati |
 | :--- | :--- |
-| **Nama Lengkap** | [ISI NAMA LENGKAP ANDA DISINI] |
-| **NIM** | [ISI NIM ANDA DISINI] |
-| **Kelas/Kom** | [ISI KOM ANDA DISINI] |
-| **Dosen Pengampu** | [Nama Dosen] |
-| **Asisten Lab** | Rivaldo Dominggos Pardede (RDP) |
+| **NIM** | 231401076 |
+| **Kom** | A |
+| **Lab** | 2 |
+| **Asisten Lab** | Rivaldo Dominggos Pardede |
 
 ---
 
 ## 📥 Download & Demo
 
-- **📱 Download APK (v1.0.0):** [Klik disini untuk Download APK](https://github.com/[USERNAME_GITHUB_ANDA]/anime_verse/releases/tag/v1.0.0)
+- **📱 Download APK (v1.0.0):** [Klik disini untuk Download APK](https://github.com/alizzati/AnimVerse_Izzati/releases/tag/v1.0.0)
 - **🎥 Video Demo:** [Tempel Link YouTube/Google Drive Disini]
 
 ---
@@ -47,8 +46,6 @@ Aplikasi ini terintegrasi dengan **Jikan API (MyAnimeList)** untuk data anime da
 - **Remove Favorite:** Menghapus anime dari daftar favorit.
 
 ### 4. Manajemen Profil
-- Menampilkan foto profil (dari Google atau Placeholder).
-- Edit Display Name.
 - Change Password.
 - Logout.
 
