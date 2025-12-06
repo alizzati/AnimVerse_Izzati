@@ -83,4 +83,4 @@ Jika Anda ingin menjalankan source code ini di komputer lokal:
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/](https://github.com/)[USERNAME_GITHUB_ANDA]/anime_verse.git
+   git clone [https://github.com/](https://github.com/)alizzati/AnimVerse_Izzati.git
