@@ -80,7 +80,7 @@ Berikut adalah tampilan antarmuka aplikasi Anime Verse:
 | Change Password |
 | :---: |
 | <img src="screenshots/change.jpg" width="310" alt="change_password"> |
-| *Profil User* |
+| *Change Password* |
 ---
 
 ## 🛠️ Teknologi yang Digunakan
