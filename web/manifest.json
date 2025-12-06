@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "anime_verse",
     "short_name": "anime_verse",
+=======
+    "name": "test2",
+    "short_name": "test2",
+>>>>>>> 1fd7869f9737c7d374806d6dac95b3b26cf13e57
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

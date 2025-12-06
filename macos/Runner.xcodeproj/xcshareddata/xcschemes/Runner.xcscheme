@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "anime_verse.app"
+=======
+               BuildableName = "test2.app"
+>>>>>>> 1fd7869f9737c7d374806d6dac95b3b26cf13e57
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "anime_verse.app"
+=======
+            BuildableName = "test2.app"
+>>>>>>> 1fd7869f9737c7d374806d6dac95b3b26cf13e57
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "anime_verse.app"
+=======
+            BuildableName = "test2.app"
+>>>>>>> 1fd7869f9737c7d374806d6dac95b3b26cf13e57
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "anime_verse.app"
+=======
+            BuildableName = "test2.app"
+>>>>>>> 1fd7869f9737c7d374806d6dac95b3b26cf13e57
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

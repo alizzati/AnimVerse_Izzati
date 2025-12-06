@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(anime_verse LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "anime_verse")
+=======
+project(test2 LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "test2")
+>>>>>>> 1fd7869f9737c7d374806d6dac95b3b26cf13e57
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
